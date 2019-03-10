@@ -1,0 +1,32 @@
+.header {
+    background-color: darkturquoise;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 5px;
+}
+
+.title {
+    margin: 0px 0px 0px 20px;
+    position: relative;
+    top: 10px;
+}
+
+.scoreboard {
+    position: absolute;
+    right: 10px;
+    top: 17px;
+}
+
+.result {
+    position: relative;
+    top: -25px;
+}
+
+.scoreboard, .result {
+    color: white;
+    font-size: 20px;
+}
